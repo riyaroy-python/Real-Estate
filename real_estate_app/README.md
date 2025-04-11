@@ -26,8 +26,5 @@ This project performs an analysis of a real estate dataset and builds a model to
 - Add visualizations of prediction trends
 
 ## How to Run
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/riyaroy/Real_Estat.git
+git clone https://github.com/riyaroy-python/Real-Estate.git
    cd Real_Estat_project
